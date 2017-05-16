@@ -1,8 +1,8 @@
 {
   "intents": [
     {
-      "name": "AMAZON.CancelIntent",  
-      "samples": []  
+      "name": "AMAZON.CancelIntent",
+      "samples": []
     },
     {
       "name": "AMAZON.HelpIntent",
@@ -13,22 +13,27 @@
       "samples": []
     },
     {
-      "name": "GetNewFactIntent",
+      "name": "GetNewCodeFactIntent",
       "samples": [
-        "a fact",
-        "a space fact",
-        "tell me a fact",
-        "tell me a space fact",
+        "say a code fact",
+        "say a programming fact",
+        "say a fact",
+        "get a code fact",
+        "get a programming fact",
+        "get a fact",
+        "give me a code fact",
+        "give me a programming fact",
         "give me a fact",
-        "give me a space fact",
-        "tell me trivia",
-        "tell me a space trivia",
-        "give me trivia",
-        "give me a space trivia",
-        "give me some information",
-        "give me some space information",
+        "tell me a code fact",
+        "tell me a programming fact",
+        "tell me a fact",
         "tell me something",
-        "give me something"
+        "give me something",
+        "get me something",
+        "say something",
+        "a fact",
+        "a programming fact",
+        "a code fact"
       ],
       "slots": []
     }

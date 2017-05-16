@@ -1,7 +1,7 @@
 {
-  "name": "skill-sample-nodejs-fact-i18n",
-  "version": "1.0.0",
-  "description": "I18n version of fact skill.",
+  "name": "alexa-code-facts",
+  "version": "0.0.1",
+  "description": "A skill for Alexa that dispenses code facts.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "skill",
     "fact"
   ],
-  "author": "Amazon.com",
-  "license": "Apache-2.0",
+  "author": "devAcademy",
+  "license": "MIT",
   "dependencies": {
     "alexa-sdk": "^1.0.6"
   }

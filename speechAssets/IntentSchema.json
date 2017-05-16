@@ -1,5 +1,5 @@
 { "intents": [
-    { "intent": "GetNewFactIntent" },
+    { "intent": "GetNewCodeFactIntent" },
     { "intent": "AMAZON.HelpIntent" },
     { "intent": "AMAZON.StopIntent" },
     { "intent": "AMAZON.CancelIntent" }

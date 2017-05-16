@@ -1,14 +1,19 @@
-GetNewFactIntent a fact
-GetNewFactIntent a space fact
-GetNewFactIntent tell me a fact
-GetNewFactIntent tell me a space fact
+GetNewFactIntent say a code fact
+GetNewFactIntent say a programming fact
+GetNewFactIntent say a fact
+GetNewFactIntent get a code fact
+GetNewFactIntent get a programming fact
+GetNewFactIntent get a fact
+GetNewFactIntent give me a code fact
+GetNewFactIntent give me a programming fact
 GetNewFactIntent give me a fact
-GetNewFactIntent give me a space fact
-GetNewFactIntent tell me trivia
-GetNewFactIntent tell me a space trivia
-GetNewFactIntent give me trivia
-GetNewFactIntent give me a space trivia
-GetNewFactIntent give me some information
-GetNewFactIntent give me some space information
+GetNewFactIntent tell me a code fact
+GetNewFactIntent tell me a programming fact
+GetNewFactIntent tell me a fact
 GetNewFactIntent tell me something
 GetNewFactIntent give me something
+GetNewFactIntent get me something
+GetNewFactIntent say something
+GetNewFactIntent a fact
+GetNewFactIntent a programming fact
+GetNewFactIntent a code fact 
