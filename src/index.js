@@ -66,7 +66,7 @@ var handlers = {
   'LaunchRequest': function() {
     this.emit('GetNewFactIntent');
   },
-  'GetNewFactIntent': function() {
+  'GetNewCodeFactIntent': function() {
     var factArr = data;
     var factIndex = Math.floor(Math.random() * factArr.length);
     var randomFact = factArr[factIndex];
